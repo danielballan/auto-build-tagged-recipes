@@ -34,14 +34,14 @@ test:
     - suitcase.tiff_stack.tests
 
 about:
-  home: The package home page
+  home: https://nsls-ii.github.io/suitcase
   license: BSD (3-clause)
   license_family: BSD
   license_file: 
-  summary: Summary of the package
-  doc_url: 
-  dev_url: 
+  summary: Export bluesky documents to TIFF
+  doc_url: https://nsls-ii.github.io/suitcase
+  dev_url: https://github.com/NSLS-II/suitcase-tiff
 
 extra:
   recipe-maintainers:
-    - your-github-id-here
+    - NSLS-II
