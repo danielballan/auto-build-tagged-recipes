@@ -21,7 +21,7 @@ requirements:
     - python
     - suitcase-utils
   run:
-    - event-model >=1.8.0rc1
+    - event-model >=1.8.0
     - pandas
     - python
     - suitcase-utils
