@@ -1,4 +1,4 @@
-{% set version = "0.1.0a1" %}
+{% set version = "0.1.0a2" %}
 {% set setup_py = load_setup_py_data() %}
 
 package:
